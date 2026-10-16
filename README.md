@@ -32,3 +32,21 @@ Execute o aplicativo:
 ```bash
 python -m streamlit run app.py
 ```
+
+## Live Dashboard
+
+Explore the interactive dashboard here:
+
+[Car Sales Dashboard](https://car-sales-dashboard-1cvj.onrender.com/)
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- Plotly Express
+- Streamlit
+- Jupyter Notebook
+
+## Project Overview
+
+This project explores used car advertisement data to identify patterns in vehicle prices and characteristics through interactive visualizations and exploratory data analysis.
